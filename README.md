@@ -8,15 +8,6 @@ The goal of this repository is to give a series of functions that allow locating
   style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;">
-  
-  <p style="text-align:center;"><img src="RotatedSaturn.jpg" alt="Saturno"></p>
-  <style type="text/css">
-.centerImage
-{
- text-align:center;
- display:block;
- width:50%;
-}
-</style>
+  width: 50%;
+  text-align: center";>
  

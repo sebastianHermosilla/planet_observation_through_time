@@ -7,7 +7,7 @@ The goal of this repository is to give a series of functions that allow locating
   title="reconstruction of Saturn considering the rotation from several observations"
   style="display: block;
   margin-left: 25%;
-  margin-right: auto;
+  margin-right: 25%;
   width: 50%;
   text-align: center;"></center>
  

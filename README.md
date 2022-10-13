@@ -9,5 +9,5 @@ The goal of this repository is to give a series of functions that allow locating
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  text-align: center";>
+  text-align: center;">
  

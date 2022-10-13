@@ -16,6 +16,7 @@ The goal of this repository is to give a series of functions that allow locating
 {
  text-align:center;
  display:block;
+ width:50%;
 }
 </style>
  

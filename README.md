@@ -11,4 +11,11 @@ The goal of this repository is to give a series of functions that allow locating
   width: 50%;">
   
   <p style="text-align:center;"><img src="RotatedSaturn.jpg" alt="Saturno"></p>
+  <style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
  

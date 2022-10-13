@@ -5,4 +5,12 @@ The goal of this repository is to give a series of functions that allow locating
   src="RotatedSaturn.jpg"
   alt="Alt text"
   title="reconstruction of Saturn considering the rotation from several observations"
-  style="display: inline-block; margin: 100px auto; max-width: 10px; width: 50%">
+  style="display: inline-block; margin: 100px auto; max-width: 10px; width: 50%"
+  class="center">
+  
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

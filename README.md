@@ -8,6 +8,6 @@ The goal of this repository is to give a series of functions that allow locating
   style="display: block;
   margin-left: 25%;
   margin-right: 25%;
-  width: 75%;
+  width: 60%;
   text-align: center;"></center>
  
